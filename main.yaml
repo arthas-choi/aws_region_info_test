@@ -5,4 +5,4 @@
   tasks:
   - name: Get Region Info
     aws_region_info:
-      region: cn-north-1
+      region: cn-northwest-1
